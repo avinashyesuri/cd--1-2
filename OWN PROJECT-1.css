@@ -1,0 +1,52 @@
+.bgimg {
+    background-image: url("https://img.freepik.com/free-photo/red-black-brush-stroke-banner-background-perfect-canva_1361-3597.jpg?w=1060&t=st=1658655694~exp=1658656294~hmac=e62a71d3587b993678c4101b010bb6c6c0e421fb064f3747cd510f518109318b");
+    background-size: cover;
+    height: 100vh;
+}
+
+.mainhead {
+    font-family: "Monoton";
+    font-size: 44px;
+    font-weight: bold;
+    font-style: normal;
+    color: white;
+    padding: 20px;
+
+    text-decoration: underline;
+
+}
+
+.cardcont1 {
+    height: 20vh;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 10px;
+
+}
+
+.mainhead2 {
+    font-family: "caveat";
+    font-size: 24px;
+    font-weight: bold;
+    font-style: normal;
+    color: black;
+
+    text-decoration: underline;
+
+}
+
+.parag1 {
+    font-family: "caveat";
+    font-size: 10px;
+    font-weight: bold;
+    font-style: normal;
+    color: black;
+
+}
+
+.cardimg {
+    height: 80px;
+    width: 80px;
+
+}
